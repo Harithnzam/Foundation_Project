@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VACCAL COMPANY
+</name>
+</assembly>
+<members>
+<member name="T:VACCAL_COMPANY.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Afrina">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Aloft_Hotel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Aquaria_KLCC">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Aquaria_KLCC1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Arissa_Soraya">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Dzaheen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Grand_Hyatt_Hotel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Harith">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Intercontinental">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Lau_Jun_Wen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Nasi_Lemak_Wanjo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Natasya">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Petrosains">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Raimi_Athirah">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Sky_Bridge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.The_St_Regis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Tun_Hussein_Onn_Memorial">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VACCAL_COMPANY.My.Resources.Resources.Vaccal_QR">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
